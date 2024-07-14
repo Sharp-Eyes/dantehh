@@ -1,0 +1,3 @@
+[adb]
+path = "/mnt/c/program files/bluestacks_nxt/hd-adb.exe"
+ip = "127.0.0.1:51204"
